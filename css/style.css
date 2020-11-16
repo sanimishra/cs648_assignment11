@@ -1,0 +1,17 @@
+nav
+{
+    position:absolute!important;
+    z-index:2;
+    margin:20px 2%;
+    border-radius: 5px;
+    width:90%
+
+} 
+.contentstyle
+{
+    padding: 10px 40px!important;
+
+}
+.carousel{
+    z-index: -1;
+}
